@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel González</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">Developer from Spain</h3>
 
 - 🔭 I’m currently studying on [IES Jacaranda](https://www.iesjacaranda.es)
 
